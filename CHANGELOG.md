@@ -12,5 +12,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added the initial connector IDL file
 - Added buf-based linting
 - Added a CHANGELOG.md file
+- Added a `go_package` option
 
 ### Updated
