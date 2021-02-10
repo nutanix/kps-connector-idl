@@ -1,5 +1,6 @@
 syntax = "proto3";
 package connector.v1;
+option go_package = "connector/v1;connector";
 
 import "google/protobuf/struct.proto";
 import "google/protobuf/timestamp.proto";
